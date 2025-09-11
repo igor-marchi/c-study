@@ -13,6 +13,8 @@ int main()
 
   printf("Sorted array: \n");
   printArray(arr, size);
+
+  return 0;
 }
 
 void printArray(int arr[], int size)

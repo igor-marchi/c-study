@@ -10,6 +10,8 @@ int main()
   bubbleSort(arr, size);
   printf("Sorted array: \n");
   printArray(arr, size);
+
+  return 0;
 }
 
 void printArray(int arr[], int size)
